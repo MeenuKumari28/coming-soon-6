@@ -22,8 +22,8 @@
     },
     "assets/coming-soon-6.PNG": {
       "name": "assets/coming-soon-6.PNG",
-      "checksum": "FE2D47C334B5FC922EBFDCBA3CB9E96ECFFB503EE33DD5E5BE3BBA06EBED2AB7",
-      "size": 130128
+      "checksum": "12A1CEA8157AEB15B902786E490BEC4040EBA46298676B4B4E8FB861DD670FF1",
+      "size": 128001
     },
     "assets/icon-1.svg": {
       "name": "assets/icon-1.svg",
@@ -97,5 +97,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/coming-soon-6/zip/refs/heads/main",
-  "checksum": "9FA5E959CE4AA5F6430CF5EDBA160FC094123AB12A805679F8CA8D3903176629"
+  "checksum": "396780F1F13EF3CCC43B389F14B2DF26CA4E901873820D111BB264887E3DAA54"
 }
