@@ -20,6 +20,11 @@
       "checksum": "1B0192627CDBE3662E29DDBBA7D53432C135026B146C63AA89AAD3B46281341C",
       "size": 173518
     },
+    "assets/coming-soon-6.PNG": {
+      "name": "assets/coming-soon-6.PNG",
+      "checksum": "FE2D47C334B5FC922EBFDCBA3CB9E96ECFFB503EE33DD5E5BE3BBA06EBED2AB7",
+      "size": 130128
+    },
     "assets/icon-1.svg": {
       "name": "assets/icon-1.svg",
       "checksum": "5207F342D0A80845763C6C2E74A340A6209FE2951DEEF03CB7568AE9C60BDCE7",
@@ -62,8 +67,8 @@
     },
     "ds.ftd": {
       "name": "ds.ftd",
-      "checksum": "51448E5AB1E06D88C3FDCB6ED4BFD7959B6CCB5178BA8355AFA4A9A3D2CD26B8",
-      "size": 881
+      "checksum": "7C305D192DE9677D3F7FF2B85DE9BC2D4AC72CA92E5C930C9F7539CD1B2D3C93",
+      "size": 895
     },
     "favicon.ico": {
       "name": "favicon.ico",
@@ -72,8 +77,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "204912C7EF7E26DA3C138C2272CAE0ECAD44EC8C70E4EE6368510229366165AF",
-      "size": 306
+      "checksum": "1A4518AA8A565C38824EF66D788B52B49D6A3589CF887DA46EE4ABC9BB62DF9E",
+      "size": 922
     },
     "lib.ftd": {
       "name": "lib.ftd",
@@ -92,5 +97,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/coming-soon-6/zip/refs/heads/main",
-  "checksum": "FB32B8B50F954155260B4FCCA5060F36939350C12DB568E7708A2A1A34E50B25"
+  "checksum": "9FA5E959CE4AA5F6430CF5EDBA160FC094123AB12A805679F8CA8D3903176629"
 }
